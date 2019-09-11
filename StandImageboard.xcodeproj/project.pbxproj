@@ -14,6 +14,7 @@
 		65DBEC072326BDE900D58088 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65DBEC052326BDE900D58088 /* LaunchScreen.storyboard */; };
 		65DBEC122326BDE900D58088 /* StandImageboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DBEC112326BDE900D58088 /* StandImageboardTests.swift */; };
 		65DBEC1D2326BDE900D58088 /* StandImageboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DBEC1C2326BDE900D58088 /* StandImageboardUITests.swift */; };
+		65DCAD90232964B400296767 /* jojo-menacing.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 65DCAD8F232964B400296767 /* jojo-menacing.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		65DBEC182326BDE900D58088 /* StandImageboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StandImageboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65DBEC1C2326BDE900D58088 /* StandImageboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandImageboardUITests.swift; sourceTree = "<group>"; };
 		65DBEC1E2326BDE900D58088 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65DCAD8F232964B400296767 /* jojo-menacing.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "jojo-menacing.jpeg"; path = "Assets.xcassets/jojo-menacing.imageset/jojo-menacing.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				65DBEC032326BDE900D58088 /* Assets.xcassets */,
 				65DBEC052326BDE900D58088 /* LaunchScreen.storyboard */,
 				65DBEC082326BDE900D58088 /* Info.plist */,
+				65DCAD8F232964B400296767 /* jojo-menacing.jpeg */,
 			);
 			path = StandImageboard;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				65DBEC072326BDE900D58088 /* LaunchScreen.storyboard in Resources */,
 				65DBEC042326BDE900D58088 /* Assets.xcassets in Resources */,
 				65DBEC022326BDE800D58088 /* Main.storyboard in Resources */,
+				65DCAD90232964B400296767 /* jojo-menacing.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
